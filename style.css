@@ -77,8 +77,8 @@ span{
 }
 
 .images{
-    width: 20%;
-    height: 30%;
+    width: 30%;
+    height: 40%;
     position: absolute;
     bottom: 0;
     right: 100px;
@@ -112,6 +112,7 @@ span{
 .images li{
     color: crimson;
     text-align: left;}
+
     
 /*<!--Fast Body end Hear*/
 
